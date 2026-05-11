@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=HamClock Backup
+Comment=Back up and restore HamClock configurations
+Exec=@BINDIR@/hamclock-backup
+Icon=@ICON_PATH@
+Terminal=false
+Categories=HamRadio;Utility;
+StartupNotify=false
